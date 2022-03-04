@@ -49,5 +49,8 @@ export default {
     icons: [
       'faHome'
     ]
+  },
+  generate: {
+    dir: 'public'
   }
 }
