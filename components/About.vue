@@ -41,8 +41,8 @@
         "
       >
         I am a software developer experienced in Javascript, Java, Kotlin,
-        NodeJs, SQL and NoSQL databases, HTML(<span class="text-red-500">5</span
-        >), CSS(3), Tailwind-css, agile SCRUM development methodologies.
+        NodeJs, SQL and NoSQL databases, HTML(5), CSS(3), Tailwind-css, agile
+        SCRUM development methodologies.
       </p>
       <div class="flex pt-5 md:pt-10">
         <div
@@ -53,7 +53,19 @@
           <ul>
             <li>
               <a :href="item.link"
-                ><img :src="item.picture" class="w-10 h-10 mr-3 sm:mr-6" alt=""
+                ><img
+                  :src="item.picture"
+                  class="
+                    w-10
+                    h-10
+                    mr-3
+                    sm:mr-6
+                    transform
+                    transition
+                    duration-500
+                    hover:scale-125
+                  "
+                  :alt="item.name"
               /></a>
             </li>
           </ul>

@@ -103,11 +103,11 @@
 <script>
 export default {
   name: 'HeaderComponent',
+
   data() {
     return {
       name: 'Abba Sali',
       profilPicture: require('../static/profile.jpg'),
-
       setID: 'about',
     }
   },
@@ -118,6 +118,14 @@ export default {
     headerLinksWeb() {
       return this.$store.state.header.headerlinks
     },
+  },
+  mounted() {
+    const btn = document.querySelector('button.mobile-menu-button')
+    const menu = document.querySelector('.mobile-menu')
+
+    btn.addEventListener('click', () => {
+      menu.classList.toggle('hidden')
+    })
   },
 }
 </script>
