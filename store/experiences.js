@@ -14,10 +14,24 @@ export const state = () => ({
         'Design and development of an application business management and monitoring. ',
     },
     {
-      title: 'Developer',
+      title: 'Software Developer',
       year: '2021 - PRESENT',
       subTitle: 'OSS CAMEROON',
       content: 'Working with OSS Cameroon as a software developer ',
+      links: [
+        {
+          name: "OSS CAMEROON - Website",
+          link: "https://github.com/osscameroon/osscameroon-website/"
+        },
+        {
+          name: "Onacut",
+          link: "https://github.com/osscameroon/onacut"
+        },
+        {
+          name: "JOBSIKA",
+          link: "https://github.com/osscameroon/camerdevs"
+        },
+      ]
     },
   ],
 })

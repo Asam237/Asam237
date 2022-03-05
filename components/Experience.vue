@@ -24,6 +24,7 @@
           :year="item.year"
           :subTitle="item.subTitle"
           :content="item.content"
+          :myItem="item.links"
         />
       </div>
     </div>

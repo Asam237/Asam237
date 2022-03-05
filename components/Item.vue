@@ -1,5 +1,5 @@
 <template>
-  <div class="site__item pt-6 md:pt-10">
+  <div class="site__item pt-5 md:pt-8">
     <header
       class="
         site__item-header
@@ -29,6 +29,7 @@
             md:text-lg
             font-medium
             text-gray-500
+            pb-2
           "
           style="font-family: 'Inter', sans-serif"
         >
@@ -57,7 +58,7 @@
         class="
           site__about__content
           py-0
-          md:py-4
+          md:py-2
           leading-7
           text-xs
           md:text-base
@@ -68,12 +69,35 @@
         {{ content }}
       </p>
     </div>
+    <div
+      class="site__about__content-item"
+      v-for="(item, myIndex) in myItem"
+      :key="myIndex"
+    >
+      <ul>
+        <li>
+          <a
+            style="font-family: 'Inter', sans-serif"
+            class="
+              text-green-500 text-xs
+              font-medium
+              transform
+              transition
+              duration-500
+              hover:scale-125 hover:underline
+            "
+            :href="item.link"
+            >{{ item.name }}</a
+          >
+        </li>
+      </ul>
+    </div>
   </div>
 </template>
 
 <script>
 export default {
   name: 'ItemComponent',
-  props: ['title', 'subTitle', 'content', 'year'],
+  props: ['title', 'subTitle', 'content', 'year', 'myItem'],
 }
 </script>
