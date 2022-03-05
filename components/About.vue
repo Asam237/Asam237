@@ -41,8 +41,8 @@
         "
       >
         I am a software developer experienced in Javascript, Java, Kotlin,
-        NodeJs, SQL and NoSQL databases, HTML(5), CSS(3), Tailwind-css, agile
-        SCRUM development methodologies.
+        NodeJs, SQL and NoSQL databases, HTML(<span class="text-red-500">5</span
+        >), CSS(3), Tailwind-css, agile SCRUM development methodologies.
       </p>
       <div class="flex pt-5 md:pt-10">
         <div
