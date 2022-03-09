@@ -80,7 +80,7 @@
       </div>
       <a
         style="font-family: 'Inter', sans-serif"
-        href="/CV_ABBA_SALI.pdf"
+        href="/Resume_ABBA_SALI.pdf"
         target="_blank"
         class="
           site__download-cv
