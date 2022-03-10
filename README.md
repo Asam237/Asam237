@@ -12,6 +12,9 @@ Hi 👋🏾, I'm Asam
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=asam237&show_icons=true&locale=en&layout=compact" alt="asam237" />
 </p>
 
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Asam237&theme=tokyonight" alt="Asam237" /></p>
+
 <h4>
 📭 More stuffs about me ? : <a href="https://asam237.herokuapp.com/">https://asam237.herokuapp.com/</a>
 </h4>
