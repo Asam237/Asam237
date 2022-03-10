@@ -6,6 +6,9 @@ Hi 👋🏾, I'm Asam
 👨🏾‍💻 A software engineer who likes to solve problems in a simple and efficient way.
 </blockquote>
 
+[![Asam237's github activity graph](https://activity-graph.herokuapp.com/graph?username=Asam237&theme=xcode)](https://github.com/Asam237)
+
+
 [![Asam237 github stats](https://github-readme-stats.vercel.app/api?username=Asam237&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/Asam237/github-readme-stats)
 
 <p align="left">
