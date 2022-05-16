@@ -50,7 +50,7 @@ export default {
       'faHome'
     ]
   },
-//  generate: {
- //   dir: 'public'
-  //}
+  generate: {
+    dir: 'public'
+  }
 }
