@@ -19,5 +19,5 @@ Hi 👋🏾, I'm Asam
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Asam237&theme=tokyonight" alt="Asam237" /></p>
 
 <h4>
-📭 More stuffs about me ? : <a href="https://asam237.herokuapp.com/">https://asam237.herokuapp.com/</a>
+📭 More stuffs about me ? : <a href="https://asam237.herokuapp.com/">https://asam-cmr.vercel.app/</a>
 </h4>
