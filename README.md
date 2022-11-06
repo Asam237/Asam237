@@ -6,6 +6,14 @@ Hi 👋🏾, I'm Asam
 👨🏾‍💻 A software engineer who likes to solve problems in a simple and efficient way.
 </blockquote>
 
+### My Coding Stats
+<p>
+    <img width="600"  
+         src="https://metrics.lecoq.io/Asam237" 
+         alt="Asam Github Metrics"
+     />
+</p>
+
 [![Asam237's github activity graph](https://activity-graph.herokuapp.com/graph?username=Asam237&theme=xcode)](https://github.com/Asam237)
 
 
