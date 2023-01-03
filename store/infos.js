@@ -1,6 +1,6 @@
 export const state = () => ({
   name: "Abba Sali Aboubakar Mamate",
-  pseudo: "Asam",
+  pseudo: "Abba Sali",
   country: "CAMEROON",
   adress: "abbasalimokolo@gmail.com"
 })
