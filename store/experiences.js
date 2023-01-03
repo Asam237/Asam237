@@ -1,17 +1,18 @@
 export const state = () => ({
   experiences: [
     {
-      title: 'Web Developer (intern)',
-      year: 'June 2020 - September 2020',
-      subTitle: 'SOCAPRESCO',
-      content: 'Design of the showcase site of the structure. ',
+      title: 'Software Developer',
+      year: 'July 2022 - PRESENT',
+      subTitle: 'DIGITRADE',
+      content:
+        'Web & Mobile Developer',
     },
     {
-      title: 'Mobile Developer (intern)',
-      year: 'June 2021 - November 2021',
-      subTitle: 'SAHEL VETCHI TECHNOLOGIES',
+      title: 'Mobile Developer',
+      year: 'March 2022 - July 2022',
+      subTitle: 'Lagence Digital',
       content:
-        'Design and development of an application business management and monitoring. ',
+        'Design and development of an a platform to control presence in a given place in an automatic way.',
     },
     {
       title: 'Software Developer',
@@ -34,18 +35,17 @@ export const state = () => ({
       ],
     },
     {
-      title: 'Mobile Developer',
-      year: 'March 2022 - July 2022',
-      subTitle: 'Lagence Digital',
+      title: 'Mobile Developer (intern)',
+      year: 'June 2021 - November 2021',
+      subTitle: 'SAHEL VETCHI TECHNOLOGIES',
       content:
-        'Design and development of an a platform to control presence in a given place in an automatic way.',
+        'Design and development of an application business management and monitoring. ',
     },
     {
-      title: 'Software Developer',
-      year: 'July 2022 - PRESENT',
-      subTitle: 'DIGITRADE',
-      content:
-        'Web & Mobile Developer',
+      title: 'Web Developer (intern)',
+      year: 'June 2020 - September 2020',
+      subTitle: 'SOCAPRESCO',
+      content: 'Design of the showcase site of the structure. ',
     },
   ],
 })
