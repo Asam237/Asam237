@@ -26,7 +26,7 @@
         "
         style="font-family: 'Inter', sans-serif"
       >
-        <span class="text-gray-500">CAMEROON </span>ABBASALIMOKOLO@GMAIL.COM
+        <span class="text-gray-500">CAMEROON </span>ABBASALIMOKOLO@GMAIL.COM   |   (+237) 691 846 922
       </h4>
       <p
         class="
