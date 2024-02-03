@@ -6,18 +6,14 @@ Hi 👋🏾, I'm Asam
 👨🏾‍💻 A software engineer who likes to solve problems in a simple and efficient way.
 </blockquote>
 
-### My Coding Stats
-<p>
-    <img width="600"  
-         src="https://metrics.lecoq.io/Asam237" 
-         alt="Asam Github Metrics"
-     />
-</p>
+#### 🌐 Follow me on
 
-[![Asam237's github activity graph](https://activity-graph.herokuapp.com/graph?username=Asam237&theme=xcode)](https://github.com/Asam237)
+- <a href="https://twitter.com/asam_237" target="_blank">X ( Twitter )</a>
+- <a href="https://linkedin.com/in/abba-sali-aboubakar-mamate" target="_blank">LinkedIn</a>
 
+#### Wakatime
 
-[![Asam237 github stats](https://github-readme-stats.vercel.app/api?username=Asam237&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/Asam237/github-readme-stats)
+[![wakatime](https://wakatime.com/badge/user/c898f6c4-93ab-4dad-98d6-c37bca710bd1.svg)](https://wakatime.com/@@asam)
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=asam237&show_icons=true&locale=en&layout=compact" alt="asam237" />
@@ -27,5 +23,5 @@ Hi 👋🏾, I'm Asam
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Asam237&theme=tokyonight" alt="Asam237" /></p>
 
 <h4>
-📭 More stuffs about me ? : <a href="https://asam237.herokuapp.com/">https://asam-cmr.vercel.app/</a>
+📭 More stuffs about me ? : <a href="https://abbasali.cm/">https://abbasali.cm</a>
 </h4>
