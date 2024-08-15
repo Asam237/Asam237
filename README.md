@@ -1,15 +1,24 @@
-<h2 align="left">
-Hi 👋🏾, I'm Asam
-</h2>
+## Hi 👋🏾, I'm Asam!
 
-<blockquote align="left">
-👨🏾‍💻 A software engineer who likes to solve problems in a simple and efficient way.
-</blockquote>
+👨🏾‍💻 A **software engineer** who likes to solve problems in a simple and efficient way.
+
 
 #### 🌐 Follow me on
 
 - <a href="https://twitter.com/asam_237" target="_blank">X ( Twitter )</a>
 - <a href="https://linkedin.com/in/abba-sali-aboubakar-mamate" target="_blank">LinkedIn</a>
+- <a href="https://abbasali.com" target="_blank">Website</a>
+
+### My Tech stack
+* Backend:  `TypeScript` - `Node.js`
+
+* Frontend: `React` - `Next.js`
+
+* Cloud: `VPS`
+
+* CI/CD: `GitHub Actions`
+
+* Others: `Docker` - `MongoDB` - `MySQL`
 
 #### Wakatime
 
@@ -21,7 +30,3 @@ Hi 👋🏾, I'm Asam
 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Asam237&theme=tokyonight" alt="Asam237" /></p>
-
-<h4>
-📭 More stuffs about me ? : <a href="https://abbasali.cm/">https://abbasali.cm</a>
-</h4>
