@@ -7,10 +7,10 @@
 
 - <a href="https://twitter.com/asam_237" target="_blank">X ( Twitter )</a>
 - <a href="https://linkedin.com/in/abba-sali-aboubakar-mamate" target="_blank">LinkedIn</a>
-- <a href="https://abbasali.com" target="_blank">Website</a>
+- <a href="https://abbasali.cm" target="_blank">Website</a>
 
 ### My Tech stack
-* Backend:  `TypeScript` - `Node.js`
+* Backend:  `TypeScript` - `Node.js` - `Python`
 
 * Frontend: `React` - `Next.js`
 
@@ -18,7 +18,7 @@
 
 * CI/CD: `GitHub Actions`
 
-* Others: `Docker` - `MongoDB` - `MySQL`
+* Others: `Docker` - `MongoDB` - `MySQL` - `Progresqk`
 
 #### Wakatime
 
